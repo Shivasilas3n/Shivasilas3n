@@ -16,7 +16,6 @@
 - **Data Engineering:** Databases (MySQL, PostgreSQL, MongoDB), Hive, Apache Spark, Apache Airflow, ETL
 - **Version Control:** Git, GitHub
 
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 15px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
   <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/dplyr.svg" alt="dplyr" width="50" height="50"/>
@@ -37,9 +36,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </div>
-
-
-## 📈 GitHub Stats
-
-![Shivakumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivasilas3n&show_icons=true&theme=radical)
 
