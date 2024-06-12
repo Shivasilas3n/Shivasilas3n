@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🔭 I am an analytics specialist with diverse experience in sales operations, financial analytics, and business operations. Currently based in Dublin, Ireland, and open to new opportunities in data science and analytics.
+🔭 I am an analytics specialist with over 5 years of diverse experience in GTM strategy, financial analytics, and business operations. Currently based in Dublin, Ireland, I am open to new opportunities in data science and analytics.
 
-🎓 I hold a M.Sc. in Data Analytics from the National College of Ireland and a Bachelor of Engineering in Mechanical Engineering from M.S. Ramaiah Institute of Technology, Bangalore, India.
+🎓 I hold an M.Sc. in Data Analytics from the National College of Ireland and a Bachelor of Engineering in Mechanical Engineering from M.S. Ramaiah Institute of Technology, Bangalore, India.
 
 ⚡ I am passionate about leveraging data to drive strategic decisions, optimize operations, and enhance business performance.
 
@@ -22,25 +22,34 @@
 - **Data Engineering:** Databases (MySQL, PostgreSQL, MongoDB), Hive, Apache Spark, Apache Airflow, ETL
 - **Version Control:** Git, GitHub
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/dplyr.svg" alt="dplyr" width="50" height="50"/>
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/ggplot2.svg" alt="ggplot2" width="50" height="50"/>
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" alt="Shiny" width="50" height="50"/>
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/stringr.svg" alt="Stringr" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </div>
+
 
 ## 📊 Work Experience and Education
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-<div style="flex: 1; margin-right: 10px;">
+<div style="flex: 1; margin-right: 20px;">
 <h3>Work Experience</h3>
 <ul>
   <li>
