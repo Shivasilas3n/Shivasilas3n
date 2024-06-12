@@ -22,27 +22,54 @@
 - **Data Engineering:** Databases (MySQL, PostgreSQL, MongoDB), Hive, Apache Spark, Apache Airflow, ETL
 - **Version Control:** Git, GitHub
 
-## 📊 Work Experience
+## 📊 Work Experience and Education
 
-### Sales Operation Analyst | APAC SMB Analytics Lead
-**LinkedIn, Remote**  
-*Dec 2020 - Nov 2022*
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-### Financial Analyst | Financial Analytics
-**Ola (Uber competitor), Bangalore, India**  
-*Oct 2019 - May 2020*
-### Business Operation Associate | Data Analyst
-**ZS Associates (Management Consulting), Pune, India**  
-*Apr 2018 - Oct 2019*
+<div style="flex: 1; margin-right: 10px;">
+<h3>Work Experience</h3>
+<ul>
+  <li>
+    <strong>Sales Operation Analyst | APAC SMB Analytics Lead</strong><br>
+    LinkedIn, Remote<br>
+    <em>Dec 2020 - Nov 2022</em>
+  </li>
+  <li>
+    <strong>Financial Analyst | Financial Analytics</strong><br>
+    Ola (Uber competitor), Bangalore, India<br>
+    <em>Oct 2019 - May 2020</em>
+  </li>
+  <li>
+    <strong>Business Operation Associate | Data Analyst</strong><br>
+    ZS Associates (Management Consulting), Pune, India<br>
+    <em>Apr 2018 - Oct 2019</em>
+  </li>
+  <li>
+    <strong>Programmer Analyst Trainee | Data Analysis and Predictive Modeling</strong><br>
+    Cognizant, Chennai, India<br>
+    <em>Sep 2016 - Jun 2017</em>
+  </li>
+</ul>
+</div>
 
-### Programmer Analyst Trainee | Data Analysis and Predictive Modeling
-**Cognizant, Chennai, India**  
-*Sep 2016 - Jun 2017*
+<div style="flex: 1;">
+<h3>Education</h3>
+<ul>
+  <li>
+    <strong>M.Sc. in Data Analytics</strong><br>
+    National College of Ireland, Dublin, Ireland<br>
+    <em>2023 - 2024</em>
+  </li>
+  <li>
+    <strong>Bachelor of Engineering in Mechanical Engineering</strong><br>
+    M.S. Ramaiah Institute of Technology, Bangalore, India
+  </li>
+</ul>
+</div>
 
-## 🌱 Education
+</div>
 
-- **M.Sc. in Data Analytics**, National College of Ireland, Dublin, Ireland (2023 - 2024)
-- **Bachelor of Engineering in Mechanical Engineering**, M.S. Ramaiah Institute of Technology, Bangalore, India
+
 
 ## 📈 GitHub Stats
 
