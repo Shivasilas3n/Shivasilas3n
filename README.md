@@ -46,10 +46,4 @@
     <img src="https://komarev.com/ghpvc/?username=Shivasilas3n&color=green" alt="Profile Visit Count" />
   </div>
   
-  <div>
-    <h3>Commits This Year</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shivasilas3n&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Commits" />
-  </div>
-
-</div>
 
