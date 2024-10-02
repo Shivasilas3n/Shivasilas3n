@@ -10,8 +10,8 @@
 
 ## 🛠️ Languages and Tools
 
-- **Programming:** Python (Pandas, NumPy, scikit-learn, TensorFlow), R (dplyr, caret, ggplot2, tidyverse), Advanced SQL (CTEs, window functions, stored procedures)
-- **Data Visualization:** Tableau, Power BI , ggplot2
+- **Programming:** Python (Pandas, NumPy, sci-kit-learn, TensorFlow), R (dplyr, caret, ggplot2, tidyverse), Advanced SQL (CTEs, window functions, stored procedures)
+- **Data Visualization:** Tableau, Power BI , ggplot2, Looker
 - **Machine Learning & Statistics:** Supervised ML (Regression, Decision Trees, KNN, SVM), Deep Learning (ANN, CNN, RNN (LSTM, GRU), TensorFlow), Time Series Forecasting (ARIMA, Prophet)
 - **Data Engineering:** Databases (MySQL, PostgreSQL, MongoDB), Hive, Apache Spark, Apache Airflow, ETL
 - **Version Control:** Git, GitHub
