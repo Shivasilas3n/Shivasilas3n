@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🔭 I am an analytics specialist with over 5 years of diverse experience in GTM strategy, financial analytics, and business operations. Currently based in Dublin, Ireland, I am open to new opportunities in data science and analytics.
+🔭 I am an analytics specialist with over 5 years of diverse experience in GTM strategy, financial analytics, and business operations. Currently based in Dublin, Ireland, I am actively seeking new opportunities in data science and analytics in Dublin (Stamp 1G work visa valid for up to 2 years), as well as in Bangalore or Pune.
 
 🎓 I hold an M.Sc. in Data Analytics from the National College of Ireland and a Bachelor of Engineering in Mechanical Engineering from M.S. Ramaiah Institute of Technology, Bangalore, India.
 
