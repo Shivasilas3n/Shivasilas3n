@@ -6,7 +6,7 @@
 
 🎓 I hold an M.Sc. in Data Analytics from the National College of Ireland and a Bachelor of Engineering in Mechanical Engineering from M.S. Ramaiah Institute of Technology, Bangalore, India.
 
-📫 How to reach me: You can contact me via email at [shivasilas3n@gmail.com](mailto:shivasilas3n@gmail.com), connect with me on [LinkedIn](https://linkedin.com/in/shivaBusinessAnalyst), or call me at +353 14428412 (Ireland) / +91 7499517838 (India).
+📫 How to reach me: You can contact me via email at [shivasilas3n@gmail.com](mailto:shivasilas3n@gmail.com), connect with me on [LinkedIn](https://linkedin.com/in/shivaBusinessAnalyst), or call me at +353 892440733 (Ireland) / +91 7499517838 (India).
 
 ## 🛠️ Languages and Tools
 
